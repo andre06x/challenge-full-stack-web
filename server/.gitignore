@@ -1,0 +1,4 @@
+node_modules
+coverage
+# deixei no git para facilitar o setup e não possui informação sensível
+# .env
