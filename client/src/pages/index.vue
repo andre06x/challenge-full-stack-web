@@ -29,8 +29,8 @@
         <tr @click="redirectToEdit(item)">
           <td>{{ item.ra }}</td>
           <td>{{ item.name }}</td>
-          <td>{{ item.email }}</td>
           <td>{{ item.cpf }}</td>
+          <td>{{ item.email }}</td>
           <td>
             <v-icon
               class="me-2"
